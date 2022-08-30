@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @homeGrownCheese
 - 🌱 I’m currently learning basic web development
-- 🐥 @hmgrwnsh
+- 🐥 [@hmgrwnsh](https://twitter.com/hmgrwnsh)
 
 <!---
 homeGrownCheese/homeGrownCheese is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
