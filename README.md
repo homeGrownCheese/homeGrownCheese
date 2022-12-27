@@ -1,8 +1,20 @@
-- 👋 Hi, I’m @homeGrownCheese
-- 🌱 I’m currently learning basic web development and Python
-- 🐥 Twitter Bot [@pytwt3](https://twitter.com/pytwt3)
+# @homeGrownCheese
 
-<!---
-homeGrownCheese/homeGrownCheese is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+## Projects
+<br>
+
+
+#### Twitter Bots 
+- [@pytwt3](https://twitter.com/pytwt3)
+- [@Stonks_bot22](https://twitter.com/Stonks_bot22)
+
+#### Sciptable Widgets
+
+- _in progress_
+
+
+## Currently Learning
+
+- Python
+- Django
