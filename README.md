@@ -9,7 +9,7 @@
 - [@pytwt3](https://twitter.com/pytwt3)
 - [@Stonks_bot22](https://twitter.com/Stonks_bot22)
 
-#### Sciptable Widgets
+#### Scriptable Widgets
 
 - _in progress_
 
