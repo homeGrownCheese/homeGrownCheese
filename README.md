@@ -1,9 +1,6 @@
 # @homeGrownCheese
 
 
-<figure><embed src="https://wakatime.com/share/@shanis9er/a257d674-b902-4ff4-a6ef-b67169a6aed3.svg"></embed></figure>
-
-
 ## Projects
 <br>
 
@@ -21,3 +18,5 @@
 
 - Python
 - Django
+- Flask
+- JavaScript
