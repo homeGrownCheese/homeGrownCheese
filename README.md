@@ -34,4 +34,4 @@
 #### Misc
 - [x] [Manage Your Versions With Git (Part 1)](https://www.coursera.org/projects/git-1)
 
-
+- [x] [Manage Your Versions With Git (Part 2)](https://www.coursera.org/projects/git-2)
