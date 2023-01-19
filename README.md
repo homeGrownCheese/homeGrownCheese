@@ -24,7 +24,7 @@
 - JavaScript
 
 ## Classes
-- [x][Python For Everybody](https://www.py4e.com/)
+- [x] [Python For Everybody](https://www.py4e.com/)
 
 
 
