@@ -24,8 +24,11 @@
 - JavaScript
 
 ## Classes
+#### Puthon
 - [x] [Python For Everybody](https://www.py4e.com/)
+#### Web
 - [x] [Interactivity with JavaScript](https://www.coursera.org/learn/javascript)
-- [x]
+- [x] Introduction to HTML5](https://www.coursera.org/learn/html)
+- [x] [Introduction to CSS3](
 
 
