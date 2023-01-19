@@ -25,6 +25,7 @@
 
 ## Classes
 - [x] [Python For Everybody](https://www.py4e.com/)
-
+- [x] [Interactivity with JavaScript](https://www.coursera.org/learn/javascript)
+- [x]
 
 
