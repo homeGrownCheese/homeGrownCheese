@@ -32,7 +32,10 @@
 - [ ] [Django For Everybody](https://www.dj4e.com)
 - [x] [Interactivity with JavaScript](https://www.coursera.org/learn/javascript)
 - [x] [Introduction to HTML5](https://www.coursera.org/learn/html)
+- [ ] [Responisve Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
 - [x] [Introduction to CSS3](https://www.coursera.org/learn/introcss)
+#### JavaScript
+- [ ] [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
 #### Misc
 - [x] [Manage Your Versions With Git (Part 1)](https://www.coursera.org/projects/git-1)
 - [x] [Manage Your Versions With Git (Part 2)](https://www.coursera.org/projects/git-2)
