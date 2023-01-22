@@ -36,6 +36,10 @@
 - [x] [Introduction to CSS3](https://www.coursera.org/learn/introcss)
 #### JavaScript
 - [ ] [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
+  - [ ] [Object Oriented Programming](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#object-oriented-programming) 
+  - [x] [Basic JavaScript](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-javascript)
+  - [x] [ES6](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#es6)
+  - [x] [Regular Expressions](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#regular-expressions)
 #### Misc
 - [x] [Manage Your Versions With Git (Part 1)](https://www.coursera.org/projects/git-1)
 - [x] [Manage Your Versions With Git (Part 2)](https://www.coursera.org/projects/git-2)
