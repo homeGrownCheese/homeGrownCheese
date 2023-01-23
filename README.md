@@ -9,7 +9,7 @@
 
 #### Twitter Bots 
 - [@pytwt3](https://twitter.com/pytwt3)
-- ~~[@Stonks_bot22](https://twitter.com/Stonks_bot22)~~ soon to be deactivated temporarily.
+- ~~[@Stonks_bot22](https://twitter.com/Stonks_bot22)~~ work in progress.
 
 #### Scriptable Widgets
 
@@ -21,7 +21,10 @@
 - Python
 - Django
 - Flask
+- FastAPI
 - JavaScript
+- Postgres
+- SQL
 
 ## Classes
 
@@ -41,6 +44,10 @@
   - [x] [Regular Expressions](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#regular-expressions)
   - [ ] [Object Oriented Programming](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#object-oriented-programming)
   - [x] [Debugging](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#debugging) 
+
+#### Databases
+- [ ] [PostgreSQL for Everybody](https://www.pg4e.com)
+
 #### Misc
 - [x] [Manage Your Versions With Git (Part 1)](https://www.coursera.org/projects/git-1)
 - [x] [Manage Your Versions With Git (Part 2)](https://www.coursera.org/projects/git-2)
