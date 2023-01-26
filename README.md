@@ -47,6 +47,12 @@
 
 #### Databases
 - [ ] [PostgreSQL for Everybody](https://www.pg4e.com)
+- [ ] [freeCodeCamp Relational Database](https://www.freecodecamp.org/learn/relational-database/)
+  - [x] [Learn Bash by Building a Boilerplate](https://www.freecodecamp.org/learn/relational-database/#learn-bash-by-building-a-boilerplate)
+  - [x] [Learn Relational Databases by Building a Mario Database](https://www.freecodecamp.org/learn/relational-database/#learn-relational-databases-by-building-a-mario-database)
+  - [ ] [Celestial Bodies Database](https://www.freecodecamp.org/learn/relational-database/#build-a-celestial-bodies-database-project)
+  - [ ] [Learn Bash Scripting by Building Five Programs](https://www.freecodecamp.org/learn/relational-database/#learn-bash-scripting-by-building-five-programs)
+  - [x] [Learn SQL by Building a Student Database: Part 1](https://www.freecodecamp.org/learn/relational-database/#learn-sql-by-building-a-student-database-part-1)
 
 #### Misc
 - [x] [Manage Your Versions With Git (Part 1)](https://www.coursera.org/projects/git-1)
