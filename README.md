@@ -29,7 +29,7 @@
 - [x] [Python For Everybody](https://www.py4e.com/)
 - [ ] [CS50’s Introduction to Programming with Python](https://cs50.harvard.edu/python/2022/)
 #### Web
-- [ ] [Django For Everybody](https://www.dj4e.com)
+- [x] [Django For Everybody](https://www.dj4e.com)
 - [x] [Interactivity with JavaScript](https://www.coursera.org/learn/javascript)
 - [x] [Introduction to HTML5](https://www.coursera.org/learn/html)
 - [ ] [Responisve Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
