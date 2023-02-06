@@ -11,11 +11,6 @@
 - ~~[@pytwt3](https://twitter.com/pytwt3)~~
 - ~~[@Stonks_bot22](https://twitter.com/Stonks_bot22)~~
 
-#### Scriptable Widgets
-
-- _in progress_
-
-
 ## Currently Learning
 
 - Python
@@ -47,7 +42,7 @@
 - [ ] [freeCodeCamp Relational Database](https://www.freecodecamp.org/learn/relational-database/)
   - [x] [Learn Bash by Building a Boilerplate](https://www.freecodecamp.org/learn/relational-database/#learn-bash-by-building-a-boilerplate)
   - [x] [Learn Relational Databases by Building a Mario Database](https://www.freecodecamp.org/learn/relational-database/#learn-relational-databases-by-building-a-mario-database)
-  - [ ] [Celestial Bodies Database](https://www.freecodecamp.org/learn/relational-database/#build-a-celestial-bodies-database-project)
+  - [x] [Celestial Bodies Database](https://www.freecodecamp.org/learn/relational-database/#build-a-celestial-bodies-database-project)
   - [ ] [Learn Bash Scripting by Building Five Programs](https://www.freecodecamp.org/learn/relational-database/#learn-bash-scripting-by-building-five-programs)
   - [x] [Learn SQL by Building a Student Database: Part 1](https://www.freecodecamp.org/learn/relational-database/#learn-sql-by-building-a-student-database-part-1)
 
