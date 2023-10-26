@@ -10,10 +10,10 @@
 - [Personal Page](https://iamshane.net/)
 
 #### freeCodeCamp Refresh
-[ ] Responsive Web Design
-[ ] JavaScript Algorithms and Data Structures
-[ ] Front End Libraries
-[ ] Data Visualization
-[ ] APIs and Microservices
-[ ] Information Security and Quality Assurance
-[ ] Coding Interview Prep
+- [ ] Responsive Web Design
+- [ ] JavaScript Algorithms and Data Structures
+- [ ] Front End Libraries
+- [ ] Data Visualization
+- [ ] APIs and Microservices
+- [ ] Information Security and Quality Assurance
+- [ ] Coding Interview Prep
