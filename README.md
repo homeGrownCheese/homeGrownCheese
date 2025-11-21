@@ -49,6 +49,7 @@ const homeGrownCheese = {
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
 
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -106,17 +107,6 @@ const homeGrownCheese = {
 - 🎯 Exploring new technologies and frameworks
 - 🌐 Contributing to open source projects
 - 🧩 Solving coding challenges and puzzles
-
----
-
-## 📫 Let's Connect!
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/homeGrownCheese)
-[![WakaTime](https://img.shields.io/badge/-WakaTime-000000?style=for-the-badge&logo=wakatime&logoColor=white)](https://wakatime.com/@e5022d71-61ac-40a2-961e-860ef02bb2b9)
-
-</div>
 
 ---
 
