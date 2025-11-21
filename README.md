@@ -15,7 +15,6 @@
 
 ```javascript
 const homeGrownCheese = {
-    pronouns: "He/Him",
     location: "Earth 🌍",
     currentFocus: "Building awesome things, one commit at a time",
     askMeAbout: ["Web Dev", "Open Source", "Tech", "Coffee ☕"],
