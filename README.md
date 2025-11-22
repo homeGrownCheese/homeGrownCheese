@@ -69,12 +69,12 @@ const homeGrownCheese = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=homeGrownCheese&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=homeGrownCheese&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=homeGrownCheese&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" alt="GitHub Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=homeGrownCheese&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" alt="Top Languages" height="180px" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=homeGrownCheese&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=homeGrownCheese&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </div>
 
 ---
@@ -82,7 +82,7 @@ const homeGrownCheese = {
 ## 🎯 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=homeGrownCheese&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=homeGrownCheese&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Contribution Graph" />
 </div>
 
 ---
@@ -113,3 +113,5 @@ const homeGrownCheese = {
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer" />
 
 </div>
+
+<!-- Last updated: 2025-11-22 01:57:22 UTC -->
