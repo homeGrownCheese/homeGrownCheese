@@ -21,7 +21,7 @@ jobs:
           # Update a comment in README to trigger cache refresh
           TIMESTAMP=$(date -u +"%Y-%m-%d %H:%M:%S UTC")
           if grep -q "<!-- Last updated:" README.md; then
-            sed -i "s/<!-- Last updated: .* -->/<!-- Last updated: ${TIMESTAMP} -->/" README.md
+            sed -i "s/<!-- Last updated: [^>]* -->/<!-- Last updated: ${TIMESTAMP} -->/" README.md
           else
             echo "<!-- Last updated: ${TIMESTAMP} -->" >> README.md
           fi

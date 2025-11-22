@@ -74,6 +74,7 @@ const homeGrownCheese = {
 </div>
 
 <div align="center">
+  <!-- Date format: M j[, Y] (e.g., "Nov 22, 2025") -->
   <img src="https://streak-stats.demolab.com/?user=homeGrownCheese&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </div>
 
