@@ -69,8 +69,8 @@ const homeGrownCheese = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=homeGrownCheese&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=homeGrownCheese&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=homeGrownCheese&show_icons=true&theme=radical&hide_border=true&rank_icon=github&cache_seconds=1800" alt="GitHub Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=homeGrownCheese&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" alt="Top Languages" height="180px" />
 </div>
 
 <div align="center">
