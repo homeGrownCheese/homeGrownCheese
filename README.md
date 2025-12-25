@@ -16,10 +16,10 @@
 ```javascript
 const homeGrownCheese = {
     location: "Earth 🌍",
-    currentFocus: "Building awesome things, one commit at a time",
-    askMeAbout: ["Web Dev", "Open Source", "Tech", "Coffee ☕"],
+    currentFocus: "Learning more languages and expanding from Django",
+    askMeAbout: ["Web Dev", "Open Source", "Tech"],
     funFact: "I debug with console.log() and I'm not ashamed!",
-    lifePhilosophy: "Code. Debug. Coffee. Repeat. 🔄"
+    lifePhilosophy: "Live fat"
 };
 ```
 
@@ -93,18 +93,6 @@ const homeGrownCheese = {
   <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" alt="Random Dev Quote" />
 </div>
 
----
-
-## 🎮 When I'm Not Coding
-
-- 📚 Reading tech blogs and documentation
-- 🎵 Listening to music (it's essential for the coding flow!)
-- ☕ Brewing the perfect cup of coffee
-- 🎯 Exploring new technologies and frameworks
-- 🌐 Contributing to open source projects
-- 🧩 Solving coding challenges and puzzles
-
----
 
 <div align="center">
   
