@@ -9,29 +9,7 @@
 
 </div>
 
----
 
-## 🧀 About Me
-
-```javascript
-const homeGrownCheese = {
-    location: "Earth 🌍",
-    currentFocus: "Learning more languages and expanding from Django",
-    askMeAbout: ["Web Dev", "Open Source", "Tech"],
-    funFact: "I debug with console.log() and I'm not ashamed!",
-    lifePhilosophy: "Live fat"
-};
-```
-
-### 🌟 What I'm Up To
-
-- 🔭 Currently working on personal projects and exploring new technologies
-- 🌱 Always learning and growing as a developer
-- 👯 Open to collaborating on interesting open source projects
-- 💬 Ask me about anything tech-related - I love good conversations!
-- ⚡ Fun fact: I'm passionate about writing clean, maintainable code
-
----
 
 ## 🛠️ Tech Stack & Tools
 
@@ -61,29 +39,5 @@ const homeGrownCheese = {
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 ![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white)
-
-</div>
-
-
-## 🎯 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=homeGrownCheese&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
-</div>
-
----
-
-## 💭 Random Dev Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" alt="Random Dev Quote" />
-</div>
-
-
-<div align="center">
-  
-### 💻 "Talk is cheap. Show me the code." - Linus Torvalds
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer" />
 
 </div>
